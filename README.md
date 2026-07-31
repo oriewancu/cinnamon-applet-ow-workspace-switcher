@@ -4,7 +4,7 @@ A sleek, highly customizable workspace switcher applet for the Cinnamon desktop 
 
 ## Preview
 ![Preview](preview.png)
-![Preview2](preview2.png)
+![PreviewAlt](previewAlt.png)
 
 ## ✨ Features
 
