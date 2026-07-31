@@ -1,0 +1,57 @@
+{
+  "theme": {
+    "type": "combobox",
+    "default": "dark",
+    "description": "Theme",
+    "options": {
+      "Dark": "dark",
+      "Light": "light"
+    }
+  },
+  "overview_mode": {
+    "type": "checkbox",
+    "default": true,
+    "description": "Overview Window (Show background & app icon)"
+  },
+  "show_indicator": {
+    "type": "checkbox",
+    "default": true,
+    "description": "Show Active Workspace Indicator"
+  },
+  "indicator_style": {
+    "type": "combobox",
+    "default": "triangle",
+    "description": "Indicator Shape",
+    "options": {
+      "Triangle": "triangle",
+      "Circle Filled": "circle_filled",
+      "Circle Empty": "circle_empty"
+    },
+    "dependency": "show_indicator"
+  },
+  "use_custom_size": {
+    "type": "checkbox",
+    "default": false,
+    "description": "Manual set workspace box size"
+  },
+  "custom_height": {
+    "type": "spinbutton",
+    "default": 18,
+    "min": 10,
+    "max": 60,
+    "step": 1,
+    "units": "px",
+    "description": "Box Height",
+    "dependency": "use_custom_size"
+  },
+  "custom_width": {
+    "type": "spinbutton",
+    "default": 34,
+    "min": 10,
+    "max": 100,
+    "step": 1,
+    "units": "px",
+    "description": "Box Width",
+    "dependency": "use_custom_size"
+  }
+}
