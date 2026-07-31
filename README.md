@@ -16,9 +16,9 @@ A sleek, highly customizable workspace switcher applet for the Cinnamon desktop 
   * Circle Filled (●)
   * Circle Empty (○)
 * **📏 Custom Sizing:** Panel too big or too small? You can easily override the default sizes and set a custom width and height for the workspace boxes directly from the settings.
-* **🖼️ Per-Workspace Wallpapers: Set custom background images for each workspace (up to 10 workspaces) that automatically change when you switch workspaces.
-* **⚙️ Workspace Management Shortcut: Quick button in settings to open native Linux Mint workspace settings for adding or removing workspaces.
-* **🎚️ Custom Transparency: Toggle and adjust the opacity slider for the main applet container to seamlessly blend with your panel.
+* 🖼️ Per-Workspace Wallpapers: Set custom background images for each workspace (up to 10 workspaces) that automatically change when you switch workspaces.
+* ⚙️ Workspace Management Shortcut: Quick button in settings to open native Linux Mint workspace settings for adding or removing workspaces.
+* 🎚️ Custom Transparency: Toggle and adjust the opacity slider for the main applet container to seamlessly blend with your panel.
 
 ## 📦 Installation
 
